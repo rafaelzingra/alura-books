@@ -12,7 +12,7 @@ const Opcao = styled.li`
   text-align: center;
   height: 100%;
   padding: 0 5px;
-  curor: pointer;
+  cursor: pointer;
   min-width:120px;
 `
 
